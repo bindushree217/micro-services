@@ -4,4 +4,4 @@ spring:
   config:
     import: configserver:http://config-container:8888
   profiles:
-    active: dev
+    active: qa
