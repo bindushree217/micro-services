@@ -19,7 +19,6 @@ public class OrderEntity {
 	private int price;
 	private String description;
 
-	
 	public int getOrderId() {
 		return orderId;
 	}
